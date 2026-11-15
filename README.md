@@ -19,7 +19,7 @@ Python 3.13, CustomTkinter, tkinter, json, csv, datetime
 
 ## Run it
     pip install customtkinter
-    python eventManagement.py
+    python eventify.py
 
 Requires Python with Tk 8.6 (the installer from python.org includes it).
 
